@@ -1,0 +1,23 @@
+/* CSS Externo */
+
+/* Tag */
+h1 {
+  font-size: 64px;
+}
+
+.secundario {
+  color: blue;
+}
+
+.terceario {
+  color: red;
+}
+
+/* ID */
+#titulo {
+  background-color: bisque;
+}
+/* Classe */
+.titulo {
+  font-size: 48px;
+}
